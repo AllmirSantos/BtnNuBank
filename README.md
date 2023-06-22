@@ -8,17 +8,9 @@
 
 # 📱 Preview do projeto
 
->segue alguns prints
+>segue alguns prints ANDROID > IOS
 >
->IOS
->
->
->![WhatsApp Image 2023-06-22 at 10 48 31](https://github.com/AllmirSantos/BtnNuBank/assets/101511589/4f530ac4-1f13-4065-bbff-642e199a0bfb)
->
->ANDROID
->
->
->![WhatsApp Image 2023-06-22 at 10 48 42](https://github.com/AllmirSantos/BtnNuBank/assets/101511589/afdc204d-bbdf-4457-bcf3-cfccf0ef0d01)
+![Blank 2 Grids Collage](https://github.com/AllmirSantos/BtnNuBank/assets/101511589/fb56bdc5-8bf5-4123-8b43-3d9d5feb3a1d)
 
 
     
